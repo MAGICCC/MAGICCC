@@ -1,7 +1,7 @@
 # Hello.
 
 ## Who am I?
-My name is **Peter Stanke**, living + born in Germany. I am currently working for [OVHCloud](https://www.ovhcloud.com/en/) as Data Center Upgrade Technician in the german datacenter. Before that I was working as electrician but I moved to the IT world since I was always in this stuff.
+My name is **Peter Stanke**, living + born in Germany. I am currently working for [OVHcloud](https://www.ovhcloud.com/en/) as Data Center Upgrade Technician in the german datacenter. Before that I was working as electrician but I moved to the IT world since I was always in this stuff.
 
 ## What are doing here on GitHub?
 Well... to be honest I am not a full stack programmer or whatever it's called. I do know some basic stuff about everything and that's enough for me.
