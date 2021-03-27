@@ -13,6 +13,8 @@ Usually I check some repos and try to help with some basic stuff like commenting
 - [Football-Data API](https://github.com/icedream/go-footballdata) - Golang interface allowing to communicate with the Football-Data API to process football/soccer match information.
 - [TeamSpeak3 Server](https://github.com/icedream/docker-ts3server) - TeamSpeak3 server as a Docker image! 
 
+![](https://github-readme-stats.vercel.app/api?username=magiccc&show_icons=true&theme=dark)
+
 ## Where can I find you?
 - [Telegram](https://t.me/magic848)
 - [Twitter](https://twitter.com/MAGIC848)
