@@ -1,7 +1,7 @@
 # Hello.
 
 ## Who am I?
-My name is **Peter Stanke**, living + born in Germany. I am currently working for [OVHcloud](https://www.ovhcloud.com/en/) as Data Center Upgrade Technician in the german datacenter. Before that I was working as electrician but I moved to the IT world since I was always in this stuff.
+My name is **Peter Stanke**, living + born in Germany. I am currently working for [OVHcloud](https://www.ovhcloud.com/en/) as Data Center Upgrade Technician in the german datacenter. Before that I was working as electrician but I moved to the IT world because I worked in my freetime with IT related things.
 
 ## What are doing here on GitHub?
 Well... to be honest I am not a full stack programmer or whatever it's called. I do know some basic stuff about everything and that's enough for me.
@@ -11,7 +11,8 @@ Usually I check some repos and try to help with some basic stuff like commenting
 - [mailcow: dockerized](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕 
 - [Freifunk MWU fastd keys](https://github.com/freifunk-mwu/peers-ffmwu) - Keys for routers to connect to the Freifunk MWU servers
 - [Football-Data API](https://github.com/icedream/go-footballdata) - Golang interface allowing to communicate with the Football-Data API to process football/soccer match information.
-- [TeamSpeak3 Server](https://github.com/icedream/docker-ts3server) - TeamSpeak3 server as a Docker image! 
+- [TeamSpeak3 Server](https://github.com/icedream/docker-ts3server) - TeamSpeak3 server as a Docker image!
+- [PMS_Updater](https://github.com/mstinaff/PMS_Updater) - PMS_Updater.sh is a shell script for updating the Plex Media Server inside the FreeNAS/TrueNAS Plex plugin.
 
 ![](https://github-readme-stats.vercel.app/api?username=magiccc&show_icons=true&theme=dark)
 
